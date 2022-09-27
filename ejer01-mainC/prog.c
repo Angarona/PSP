@@ -4,7 +4,7 @@
 
 int main(int argc, char const *argv[])
 {
-    fork();
+    fork(); //duplica
     fork(); // no se sabe en el orden en el cual crea las divisiones.
     printf("Mi PID es: %d y mi padre es %d \n", getpid(), getppid());
     return 0;
