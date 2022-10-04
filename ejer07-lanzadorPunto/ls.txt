@@ -1,0 +1,5 @@
+total 44
+-rw-r--r-- 1 usuario usuario   285 oct  4 10:05 lanzador.c
+-rwxr-xr-x 1 usuario usuario 16616 oct  4 10:05 lanzador.exe
+-rw-r--r-- 1 usuario usuario     0 oct  4 10:05 ls.txt
+-rwxr-xr-x 1 usuario usuario 16608 oct  4 10:03 prog.exe
